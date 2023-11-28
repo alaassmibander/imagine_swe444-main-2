@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>772736728571-2qc1vashmdabaq0lv9iq634nsndel88f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.772736728571-2qc1vashmdabaq0lv9iq634nsndel88f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBz1Z8u0T5X1SYAceX8ib8QNf1cKXpsqqo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>772736728571</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.imagineSwe</string>
+	<key>PROJECT_ID</key>
+	<string>imagine-swe444-ddc02</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imagine-swe444-ddc02.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:772736728571:ios:b69dee64e507fee2201f5e</string>
+</dict>
+</plist>

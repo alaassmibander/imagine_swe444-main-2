@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772736728571",
+    "project_id": "imagine-swe444-ddc02",
+    "storage_bucket": "imagine-swe444-ddc02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772736728571:android:ad1a21ce4ed3c653201f5e",
+        "android_client_info": {
+          "package_name": "com.example.imagine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdDpdro9eIQwQ5NOiAan4GqI3XLkgaoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772736728571:android:66c23d985d54f376201f5e",
+        "android_client_info": {
+          "package_name": "com.example.imagine_swe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdDpdro9eIQwQ5NOiAan4GqI3XLkgaoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
